@@ -37,6 +37,7 @@ dependencies:
   google_fonts: ^8.0.0
   sleek_circular_slider: ^2.1.0
   flutter_switch: ^0.3.2
+  provider: ^6.0.5
 
 dev_dependencies:
   flutter_test:
